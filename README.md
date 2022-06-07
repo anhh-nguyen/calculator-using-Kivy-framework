@@ -8,3 +8,11 @@ With Kivy, you can create apps that run on:
 One of the best ways to learn a new skill is by creating something useful. With that in mind, I use Kivy to build a calculator that supports the following operations: addition, subtraction, multiplication, division
 
 Build
+
+1. Install necessary dependencies
+python -m pip install kivy
+python install Pillow
+python -m pip install pygame
+
+2. Build
+python3 app.py
